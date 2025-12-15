@@ -1,7 +1,7 @@
 # My Power BI Dashboard Portfolio📊
 
 <<<<<<< HEAD
-Data Nerds! This repository is a collection of Power BI dashboards I've developed. It tracks my journey in usingPower BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
+Data Nerds! This repository is a collection of Power BI dashboards I've developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
 =======
 Data Nerds! This repository contains the Power BI dashboards I've developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
 >>>>>>> 51f035f6f2ad6e55f2e88181351d938d965f6da8
@@ -13,7 +13,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 ## 📊 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
 <<<<<<< HEAD
-![Data Jobs DB GIF](./Images/Project1_Pg1.png)
+![Data Jobs DB GIF](./Images/Project1_Pg1.PNG)
 
 **Key Power BI Skills Utilized:**
 * 🎨 Dashboard Layout & Design
@@ -24,10 +24,10 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🗺 Map Visualizations for Geospatial Data
 * 🔢 KPI Cards & Detailed Data Tables
 * 🖱 Interactive Slicers for Filtering
-* ⚪ Buttons & Bookmarks for PAge Navigation
+* ⚪ Buttons & Bookmarks for Page Navigation
 * ➡ Drill_Through Functionality
 
-[➡ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+[➡ **View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
 
 ## 📊 Data Jobs 2.0 (V2 - Single-Page Focus)
 
@@ -37,7 +37,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🎨 Advanced Dashboard Design (Single-Page UX and Optimization)
 * ⚙ Complex Power Query Transformations
 * 🔗 Star Schema Data Modelling Principles
-* 🧮 Explicit DAX Measures (e.g., `CALCULATE`,context modifiers) 
+* 🧮 Explicit DAX Measures (e.g., `CALCULATE`, context modifiers) 
 * 📊 Dynamic Visualization (driven by Parameters/Slicers)
 * ⚙ Field & Numeric Parameter Implementation for "What-IF" Analysis
 * 🗺 Enhanced Geospatial Insights
